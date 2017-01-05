@@ -283,10 +283,10 @@ body{ font-family:"微软雅黑";}
 	box-shadow: 15px  #ff7700;
 	}
 
-.content_list_li_right_li_a a:hover{
-	/*background: rgb(228, 76, 94);*/
+/*.content_list_li_right_li_a a:hover{
+	background: rgb(228, 76, 94);
 	color:#fff;
-}
+}*/
 .zeroMargin_mobile{
 	 margin-left: 0;
 }
